@@ -14,11 +14,12 @@
 @import './home/depoimento.css';
 
 /* Bicicletas */
-@import './biciletas/bicicletas-lista.css';
-@import './biciletas/bicicletas.css';
+@import './bicicletas/bicicletas-lista.css';
+@import './bicicletas/bicicletas.css';
 
 /* Bicicleta Individual */
 @import './bicicleta/bicicleta.css';
+@import '../bicicletas/seguro.css';
 
 /* Seguros */
 @import './seguros/seguros.css';
